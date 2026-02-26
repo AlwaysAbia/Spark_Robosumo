@@ -168,7 +168,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AGBGZTHS
 
 [Document8]
 DocumentPath=SchLib\IC_Power.SchLib
@@ -185,7 +185,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AHSHUSVJ
 
 [Document9]
 DocumentPath=SchLib\Passives.SchLib
@@ -202,7 +202,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FPDYOUYL
 
 [Document10]
 DocumentPath=SchLib\Transistors_Relays.SchLib
@@ -219,7 +219,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CAZBNUVK
 
 [Document11]
 DocumentPath=PCBLib\Buttons_and_Switches.PcbLib
@@ -321,7 +321,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JTXCMANO
 
 [Document17]
 DocumentPath=PCBLib\IC_Power.PcbLib
@@ -355,7 +355,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KXETYTQH
 
 [Document19]
 DocumentPath=PCBLib\Transistors_Relays.PcbLib
@@ -373,6 +373,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document20]
+DocumentPath=Schematics\Power.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KANAXNTK
 
 [Configuration1]
 Name=Sources
